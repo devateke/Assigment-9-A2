@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="Cource.css"?>
+
+<Course>
+        <Computer_Science>
+            <Student_name>Devendra</Student_name>
+            <Class_name>TYBCS</Class_name>
+            <percentage>80</percentage>
+        </Computer_Science>    
+      
+        <Computer_Science>
+             <Student_name>Sahil</Student_name>
+            <Class_name>TYBCS</Class_name>
+            <percentage>90</percentage>
+        </Computer_Science>
+
+        <Computer_Science>
+             <Student_name>Tushar</Student_name>
+            <Class_name>TYBCS</Class_name>
+            <percentage>95</percentage>
+        </Computer_Science>
+
+        <Computer_Science>
+             <Student_name>Atharv</Student_name>
+            <Class_name>TYBCS</Class_name>
+            <percentage>75</percentage>
+        </Computer_Science>
+
+        <Computer_Science>
+             <Student_name>Pravin</Student_name>
+            <Class_name>FYBCS</Class_name>
+            <percentage>77</percentage>
+        </Computer_Science>    
+            
+</Course> 
+
